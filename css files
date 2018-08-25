@@ -1,0 +1,63 @@
+body {font-family: Lato, monospace;
+ font-size: : 100px;
+background-color: #DC143C;
+color: 	#D4AF37;
+}
+
+img {border-radius: 8px;
+  display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 30%;
+    margin-top: 14px}
+
+h1,h2,h3 {text-align: center}
+
+
+
+h1 {margin: 6px;
+font-size: 80px;}
+
+h2 {font-size: 40px;
+margin: 6px }
+
+  h4 {font-size: 35;
+  margin: 8px;}
+
+p {font-size: 19px;
+margin: 20px;
+ ;
+}
+
+h3 {margin: 6px;
+font-size: 35px;
+}
+
+#quotes {font-size: 27px;
+text-align: center;
+font-style: italic;
+}
+
+#quotesection {border-style: solid;
+    border-width: 5px;
+  border-color: #D4AF37;
+border-radius: 20px;
+}
+
+  #commentary {
+margin-top: 10px;
+margin-bottom: 20px;}
+
+hr {
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+  color: #D4AF37;
+background-color: #D4AF37;
+  height: 2px;
+
+}
+
+  #margin {margin-top: 55px;}
+
+  #quote-reference {text-align: center;}
